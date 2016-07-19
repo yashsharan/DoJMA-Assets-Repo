@@ -1,0 +1,14 @@
+<Title, can be of any desired length as long as it consists of a single line,just don't press enter :P>
+<Date, should be of the format 'yyyyMMdd' , you may wonder why i didn't use small 'm', because samll m is used for minutes, though it doesn't matter much here. no harm in learning new stuff right? just like how you learned that this sentence is fricking long yet a single line>
+<Time, should be of the format HHmm, capital H denotes time in 24 hr format>
+<Location, same like title>
+<Details, same like title, >
+
+an example
+
+Fresher's Party
+28072016
+2330
+Mongi
+Welcome party for all freshers..No ragging *smiley_face*. Basically anything about the event 
+
