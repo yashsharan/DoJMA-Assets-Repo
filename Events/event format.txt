@@ -12,3 +12,5 @@ Fresher's Party
 Mongi
 Welcome party for all freshers..No ragging *smiley_face*. Basically anything about the event 
 
+PS: You also need to store the number of active events as line no.1
+
