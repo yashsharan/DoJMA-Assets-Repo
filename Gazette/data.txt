@@ -1,1 +1,11 @@
-format
+5
+BITS Gazette Volume 1 Issue 5
+https://github.com/MobileApplicationsClub/DoJMA-Assets-Repo/raw/master/Gazette/pdfs/vol1issue5.pdf
+BITS Gazette Volume 1 Issue 4
+https://github.com/MobileApplicationsClub/DoJMA-Assets-Repo/raw/master/Gazette/pdfs/vol1issue4.pdf
+BITS Gazette Volume 1 Issue 3
+https://github.com/MobileApplicationsClub/DoJMA-Assets-Repo/raw/master/Gazette/pdfs/vol1issue3.pdf
+BITS Gazette Volume 1 Issue 2
+https://github.com/MobileApplicationsClub/DoJMA-Assets-Repo/raw/master/Gazette/pdfs/vol1issue2.pdf
+BITS Gazette Volume 1 Issue 1
+https://github.com/MobileApplicationsClub/DoJMA-Assets-Repo/raw/master/Gazette/pdfs/vol1issue1.pdf
